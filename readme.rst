@@ -68,3 +68,14 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+![11](https://user-images.githubusercontent.com/46667666/75836317-273e0200-5df4-11ea-8758-091113d8b0a6.JPG)
+![1](https://user-images.githubusercontent.com/46667666/75836319-286f2f00-5df4-11ea-8bec-1516fbc434a9.JPG)
+![2](https://user-images.githubusercontent.com/46667666/75836320-2907c580-5df4-11ea-9a0b-a3b8a3006c8b.JPG)
+![3](https://user-images.githubusercontent.com/46667666/75836321-29a05c00-5df4-11ea-888b-93beac864dac.JPG)
+![4](https://user-images.githubusercontent.com/46667666/75836323-29a05c00-5df4-11ea-9e58-6a88c9a0f67d.JPG)
+![5](https://user-images.githubusercontent.com/46667666/75836327-2ad18900-5df4-11ea-9459-097f0ce28180.JPG)
+![6](https://user-images.githubusercontent.com/46667666/75836328-2b6a1f80-5df4-11ea-8909-ece466c72d19.JPG)
+![7](https://user-images.githubusercontent.com/46667666/75836330-2c02b600-5df4-11ea-8209-7266994be624.JPG)
+![8](https://user-images.githubusercontent.com/46667666/75836331-2c02b600-5df4-11ea-86d2-36b0e86ebd5d.JPG)
+![9](https://user-images.githubusercontent.com/46667666/75836332-2c9b4c80-5df4-11ea-840d-866e75dbc0ca.JPG)
+![10](https://user-images.githubusercontent.com/46667666/75836333-2d33e300-5df4-11ea-9c74-84750c6c6518.JPG)
